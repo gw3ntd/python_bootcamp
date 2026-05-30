@@ -328,7 +328,7 @@ You are encouraged to find unusual or unexpected datasets.
 Your project must:
 
 - Investigate a question that can be answered with data
-- Use a dataset containing approximately 50 or more observations
+- Use a dataset large enough to support analysis
 - Include at least two original visualizations
 - Use Python for some portion of the analysis
 - Cite all datasets and external sources

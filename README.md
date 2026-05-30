@@ -2,7 +2,7 @@
 
 Welcome to the 2026 edition of the Summer Data Science Bootcamp!
 
-While this is catered to our Advancing Data Science REU students, all are welcome to participate and learn.
+While this bootcamp was designed for our Advancing Data Science REU students, all are welcome to participate and learn.
 
 We'll be covering some practical applications of python as it applies to working with data as well as some related skills.
 
@@ -12,11 +12,8 @@ If you have questions outside of the session times about the bootcamp - Use Slac
 
 The schedule is as follows:
 
-- Introduction
-  - What is Data Science
-  - What is HPC and how will we use it
-  - Introduction to GitHub
-- Introduction to Python and Jupyter
+- Introduction to Data Science and Getting Setup
+- Introduction to Python
 - Working with and Visualizing Data
 - Mapping with Geopandas
 - Data Storytelling
@@ -40,15 +37,29 @@ Students are encouraged to use AI tools (such as ChatGPT, Claude, Gemini, or Cop
 
 No prior experience with Python, GitHub, high-performance computing, GIS, or text analysis is required.
 
+## Bootcamp Project
+
+Throughout the bootcamp, students will complete a small independent data project.
+
+The project will involve:
+
+- Finding a dataset
+- Cleaning and organizing data
+- Performing an analysis
+- Creating visualizations
+- Presenting results to the cohort
+
+The goal is to experience the full data science workflow from question to presentation.
+
 ## Computing Environment
 
-All python coding activities will be completed through SMU's High Performance Computing (HPC) environment using Open OnDemand and JupyterLab.
+All python coding activities will be completed through SMU's High Performance Computing (HPC) environment using M3 WebPortal and JupyterLab.
 
 Students do not need to install Python locally unless they wish to do so.
 
 During the first session we will cover:
 
-- Logging into Open OnDemand
+- Logging into M3 WebPortal
 - Launching JupyterLab
 - Navigating notebooks
 - Using GitHub to save and share work
