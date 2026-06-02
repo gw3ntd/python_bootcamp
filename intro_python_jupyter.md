@@ -237,7 +237,7 @@ convention.
 
 A pandas DataFrame is like a spreadsheet inside Python.
 
-It has rows and columns, but unlike a spreadsheet, every step can be
+It has rows and columns, but unlike in a spreadsheet, every action can be
 saved, repeated, and shared.
 
 Let’s create a small DataFrame about Tolkien books and word counts.
@@ -334,7 +334,7 @@ df["Words"][2:4]
 
 # Doing Calculations With Columns
 
-Because the `Words` column contains numbers, we can calculate with it.
+Because the `Words` column contains numbers, we can use it in calculations.
 
 
 ```python
